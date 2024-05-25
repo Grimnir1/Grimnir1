@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Grimnir1
 - 👀 I’m interested in Cyber security and web development
-- 🌱 I’m currently learning Application and System security
+- 🌱 I’m currently learning Application, System security, php, SQL, and blockchain development
 - 📫 How to reach me my phone number is +2349010764242
 
 <!---
